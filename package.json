@@ -8,5 +8,9 @@
     "start": "node server.js"
   },
   "author": "Ryan Truong",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
+  }
 }
